@@ -1,4 +1,4 @@
-const apikey = "7e370b162fee0ca1be01c0f646d1f8c4";
+const apikey = "add_your_api_key";
 const button = document.getElementById("getWeatherBtn");
 const result = document.getElementById("weatherResult");
 const err = document.getElementById("error");
